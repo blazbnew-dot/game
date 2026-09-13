@@ -1,4 +1,5 @@
 PIXEL WRESTLER ARENA
+Made by ChatGPT
 
 使い方:
 1. pixel_wrestler_arena.html をブラウザで開いてください。
